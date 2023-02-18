@@ -1,3 +1,7 @@
+# Team DS 6 Project - with team Pizza
+
+This project was a collaboration between [Hayden Greer](https://github.com/hcgreer), [Monica Weiss-Sharp](https://github.com/MWeissSharp) and myself. We each worked on our individual branches and discussed what we were working on, exchanging feedback. Finally, I also incorporated some additional models when our instructor Michael helped us review the project.
+
 # Analyzing Aggravated Burglaries in Davidson County
 
 ### Part 1 - Data Gathering using APIs
